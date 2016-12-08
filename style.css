@@ -1,0 +1,82 @@
+ html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+ body {
+ background: url(https://static.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg) no-repeat center fixed;
+  background-size: cover;
+
+}
+.menu ul li {
+	
+	float: right;
+	padding: 1.0980966325036604%;
+    border: 0;
+	list-style: none;
+}
+.pudelko {
+	display: flex;
+	
+	position: relative;
+	top: 6rem;
+	margin: 0 auto;
+	background: green;
+	height: 300px;
+	width: 78.33089311%;
+	opacity: 0.9;
+	overflow: auto;
+
+
+}
+.pudelko p#lorem{ 
+	display: flex;
+
+	left: 50px;
+	position: absolute;
+	font-size: 83.333333%;
+	font-family: 'Roboto', sans-serif;
+	max-width: 36.728971962%;
+	text-align: justify;
+	flex-shrink:  0;
+
+}
+
+.pudelko2{
+	display: flex;
+	position: relative;
+	top: 6rem;
+	margin: 0 auto;
+	background: purple;
+	background-size: contain;
+	height: 300px;
+	width: 78.33089311%;
+	opacity: 0.7;
+
+}
+.pudelko3{
+	display: flex;
+	position: relative;
+	top: 6rem;
+	margin: 0 auto;
+	background: blue;
+	background-size: contain;
+	height: 300px;
+	width: 78.33089311%;
+	opacity: 0.7;
+
+}
+.foot {
+	top: 15rem;
+	position: relative;
+	padding: 0;
+	margin: -8px;
+	border: 0;
+	background: yellow;
+	background-size: contain;
+	height: 400px;
+	width: auto;
+	bottom: -10px;
+}
