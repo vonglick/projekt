@@ -14,12 +14,11 @@
 	
 	float: right;
 	padding: 1.0980966325036604%;
-    border: 0;
+    	border: 0;
 	list-style: none;
 }
 .pudelko {
 	display: flex;
-	
 	position: relative;
 	top: 6rem;
 	margin: 0 auto;
@@ -33,7 +32,6 @@
 }
 .pudelko p#lorem{ 
 	display: flex;
-
 	left: 50px;
 	position: absolute;
 	font-size: 83.333333%;
